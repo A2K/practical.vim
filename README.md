@@ -1,4 +1,5 @@
-practical.vim
+practical.vim color scheme
 =============
 
-Vim color scheme
+Soft colors, contrast balanced, dark color scheme with 256-color terminal compatibility.
+
