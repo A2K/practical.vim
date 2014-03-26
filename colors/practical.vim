@@ -16,7 +16,7 @@ let colors_name = "practical"
 
 " Normal Color {{{1
 
-hi  Normal       guifg=white  guibg=#262626  ctermfg=white  ctermbg=235 cterm=undercurl
+hi  Normal       guifg=white  guibg=#262626  ctermfg=white  ctermbg=234 cterm=undercurl
 hi  CursorLine   guifg=NONE   guibg=#3a3a3a  gui=NONE       ctermfg=NONE  ctermbg=237  cterm=NONE
 hi  ColorColumn  guifg=NONE   guibg=#3a3a3a  ctermfg=NONE   ctermbg=237
 
@@ -82,7 +82,8 @@ hi  Keyword     guifg=#7ac5cd  guibg=NONE  gui=NONE       ctermfg=116  ctermbg=N
 hi  Type        guifg=#6687EB  guibg=NONE  gui=bold       ctermfg=69   ctermbg=NONE  cterm=bold
 hi  Special     guifg=#7f9f44  guibg=NONE  gui=NONE       ctermfg=107  ctermbg=NONE  cterm=NONE
 hi  Ignore      guifg=bg       guibg=NONE  gui=NONE       ctermfg=bg   ctermbg=NONE  cterm=NONE
-hi  Error       guifg=#ff3030  guibg=NONE  gui=underline  ctermfg=196  ctermbg=NONE  cterm=underline
+hi  Error       guifg=#ff3030  guibg=NONE  gui=underline  ctermfg=196  
+"ctermbg=NONE  cterm=underline
 hi  Todo        guifg=#ff88ee  guibg=NONE  gui=bold       ctermfg=213  ctermbg=NONE  cterm=bold
 " 2}}}
 
