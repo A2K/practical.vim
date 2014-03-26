@@ -49,7 +49,7 @@ hi  Question      guifg=#00ee00  guibg=NONE     gui=bold         ctermfg=46   ct
 hi  Search        guifg=#000000  guibg=#fff68f  gui=bold         ctermfg=16   ctermbg=228   cterm=bold
 hi  SignColumn    guifg=#767676  guibg=#000000  gui=NONE         ctermfg=243  ctermbg=16    cterm=NONE
 hi  SpecialKey    guifg=#666666  guibg=NONE     gui=NONE         ctermfg=241  ctermbg=NONE  cterm=NONE
-hi  SpellBad      guisp=#ee2c2c  gui=undercurl  cterm=undercurl
+hi  SpellBad      guisp=#ee2c2c  gui=undercurl  cterm=undercurl  ctermbg=NONE ctermfg=210
 hi  SpellCap      guisp=#0000ff  gui=undercurl  cterm=undercurl
 hi  SpellLocal    guisp=#008b8b  gui=undercurl  cterm=undercurl
 hi  SpellRare     guisp=#ff00ff  gui=undercurl  cterm=undercurl
