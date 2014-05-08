@@ -50,9 +50,9 @@ hi  Search        guifg=#000000  guibg=#fff68f  gui=bold         ctermfg=16   ct
 hi  SignColumn    guifg=#767676  guibg=#000000  gui=NONE         ctermfg=243  ctermbg=16    cterm=NONE
 hi  SpecialKey    guifg=#666666  guibg=NONE     gui=NONE         ctermfg=241  ctermbg=NONE  cterm=NONE
 hi  SpellBad      guisp=#ee2c2c  gui=undercurl  cterm=undercurl  ctermbg=NONE ctermfg=210
-hi  SpellCap      guisp=#0000ff  gui=undercurl  cterm=undercurl
-hi  SpellLocal    guisp=#008b8b  gui=undercurl  cterm=undercurl
-hi  SpellRare     guisp=#ff00ff  gui=undercurl  cterm=undercurl
+hi  SpellCap      guisp=#0000ff  gui=undercurl  cterm=undercurl  ctermbg=NONE ctermfg=230
+hi  SpellLocal    guisp=#008b8b  gui=undercurl  cterm=undercurl  ctermbg=NONE ctermfg=230
+hi  SpellRare     guisp=#ff00ff  gui=undercurl  cterm=undercurl  ctermbg=NONE ctermfg=230
 hi  StatusLine    guifg=#ddeeff  guibg=#445566  gui=NONE         ctermfg=255  ctermbg=240   cterm=NONE
 hi  StatusLineNC  guifg=#999999  guibg=#445566  gui=italic       ctermfg=247  ctermbg=240
 hi  TabLine       guifg=fg       guibg=#d3d3d3  gui=underline    ctermfg=fg   ctermbg=252   cterm=underline
